@@ -1,2 +1,3 @@
-# Curso-PythonBackend-MoureDev
-Aquí voy añadiendo las cosas que voy haciendo en el transcurso de todo el curso https://www.youtube.com/watch?v=_y9qQZXE24A&amp;ab_channel=MoureDevbyBraisMoure
+Aquí voy añadiendo todo lo que vaya haciendo en el curso de MoureDev
+El curso es: https://www.youtube.com/watch?v=_y9qQZXE24A&ab_channel=MoureDevbyBraisMoure
+Se utilizan las tecnologías Python, FastAPI, MongoDB
